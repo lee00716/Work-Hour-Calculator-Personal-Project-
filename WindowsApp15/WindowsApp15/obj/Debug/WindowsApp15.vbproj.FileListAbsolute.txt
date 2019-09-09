@@ -1,0 +1,15 @@
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\bin\Debug\WindowsApp15.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\bin\Debug\WindowsApp15.exe
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\bin\Debug\WindowsApp15.pdb
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\bin\Debug\WindowsApp15.xml
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.exe
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.xml
+c:\users\pc\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\bin\Debug\WindowsApp15.exe.manifest
+C:\Users\PC\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\bin\Debug\WindowsApp15.application
+C:\Users\PC\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.exe.manifest
+C:\Users\PC\documents\visual studio 2017\Projects\WindowsApp15\WindowsApp15\obj\Debug\WindowsApp15.application
